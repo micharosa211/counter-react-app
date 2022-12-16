@@ -1,0 +1,15 @@
+.Counter {
+    position: relative;
+    border: 1px solid darkblue;
+    padding: 30px;
+    width: 300px;
+    right: 0;
+    left: 0;
+    margin: 30px auto;
+
+}
+
+.Counter span.value {
+    margin-left: 10px;
+
+}
